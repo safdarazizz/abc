@@ -1,0 +1,6 @@
+Class Cal {
+public static void main(String[] args)
+{
+add(2, 3);
+}
+}
